@@ -1,2 +1,2 @@
 # analytics-in-python
-Teständeung
+Teständerung
